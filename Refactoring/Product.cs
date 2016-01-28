@@ -15,6 +15,6 @@ namespace Refactoring
         [JsonProperty("Price")]
         public double Price;
         [JsonProperty("Quantity")]
-        public int Qty;
+        public int Quantity;
     }
 }
